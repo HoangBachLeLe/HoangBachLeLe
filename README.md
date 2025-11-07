@@ -15,8 +15,8 @@
 | Microsoft | Microsoft Certified: Cybersecurity Architect Expert | Oct. 2025 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/LeHoangBachLe/775E61A46B670B06?sharingId) |
 | Microsoft | Microsoft Certified: Security Operations Analyst Associate | Oct. 2025 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/LeHoangBachLe/6247207C8BF06CB5?sharingId) |
 | The Open Group | TOGAF® Business Architecture Foundation | Oct. 2025 | [Show credential](https://www.credly.com/badges/dce01f29-5806-415d-aa95-22e9858d3281/linked_in_profile) |
-| The Open Group | TOGAF® Enterprise Architecture Practitioner | Oct. 2025 | Show credential |
-| Brightest | iSAQB - Certified Professional for Software Architecture, Foundation Level (CPSA-F) | Oct. 2025 | [Show credential](https://www.credly.com/badges/745fc451-a1d9-4d69-a1e9-66d3c39a238c/linked_in_profile) |
+| The Open Group | TOGAF® Enterprise Architecture Practitioner | Oct. 2025 | [Show credential](https://www.credly.com/badges/745fc451-a1d9-4d69-a1e9-66d3c39a238c/linked_in_profile) |
+| Brightest | iSAQB - Certified Professional for Software Architecture, Foundation Level (CPSA-F) | Oct. 2025 | [Show credential](https://www.credly.com/badges/ec013dc3-8a40-406e-b825-5880f2df85da/linked_in_profile) |
 | Microsoft | GitHub Administration | Sept. 2025 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/LeHoangBachLe/56AA20D6F20A0295?sharingId) |
 | Microsoft | GitHub Copilot | Sept. 2025 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/LeHoangBachLe/63A886CCA8315A6?sharingId) |
 | Microsoft | Microsoft Certified: Information Security Administrator Associate | Sept. 2025 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/LeHoangBachLe/25B982ED90A79734?sharingId) |
@@ -32,7 +32,7 @@
 | Microsoft | Microsoft Certified: Azure Database Administrator Associate | Dec. 2024 | [Show credential](https://learn.microsoft.com/api/credentials/share/de-de/LeHoangBachLe/C15746BA9E591748?sharingId) |
 | Google | Associate Cloud Engineer Certification | Nov. 2024 | [Show credential](https://www.credly.com/badges/2120f79f-24d4-4043-aebf-aba567b800e8/linked_in_profile) |
 | Google | Cloud Digital Leader Certification | Nov. 2024 | [Show credential](https://www.credly.com/badges/3ab8b3f1-7cf8-42d8-b360-e496d5b01fa1/linked_in_profile) |
-| Microsoft | Microsoft Certified: Azure AI Engineer Associate | Nov. 2024 | Show credential |
+| Microsoft | Microsoft Certified: Azure AI Engineer Associate | Nov. 2024 | [Show credential](https://learn.microsoft.com/api/credentials/share/de-de/LeHoangBachLe/360FF281BBE10D5C?sharingId) |
 | Amazon Web Services (AWS) | AWS Certified Machine Learning Engineer – Associate | Oct. 2024 | [Show credential](https://www.credly.com/badges/3de9d9b4-75b4-4600-b14d-a5f728e3f3dc/linked_in_profile) |
 | Microsoft | Microsoft Certified: Azure Cosmos DB Developer Specialty | Oct. 2024 | [Show credential](https://learn.microsoft.com/api/credentials/share/de-de/LeHoangBachLe/53941079EBF5EA45?sharingId) |
 | Amazon Web Services (AWS) | AWS Certified AI Practitioner | Sept. 2024 | [Show credential](https://www.credly.com/badges/9b6e0ca3-aebe-41e6-952b-8752f7108ae3/linked_in_profile) |
