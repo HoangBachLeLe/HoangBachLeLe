@@ -1,4 +1,7 @@
 # My certificates
+<details>
+
+<summary>87 certificates (Click here)</summary>
 
 | Provider | Title | Issued | Link |
 |-----------|--------|---------|------|
@@ -88,3 +91,4 @@
 | The Linux Foundation | CKS: Certified Kubernetes Security Specialist | Mar. 2023 | --- |
 | HashiCorp | HashiCorp Certified: Terraform Associate (002) | Feb. 2023 | --- |
 
+</details>
