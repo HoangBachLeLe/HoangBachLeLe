@@ -1,7 +1,10 @@
 # My certificates
 <details>
 
-<summary>87 certificates (Click here)</summary>
+<summary>87 certificates (Click here to expand table)</summary>
+
+## 87 certificates
+
 
 | Provider | Title | Issued | Link |
 |-----------|--------|---------|------|
